@@ -1,0 +1,5 @@
+Administrador: Ariel contrasena 1 0 0 5
+Alejandro contrasena 0 0 0 0
+Juan pato 0 0 1 2
+Marcos 12345 0 0 0 0
+Pedro Almeria0 0 0 0 0

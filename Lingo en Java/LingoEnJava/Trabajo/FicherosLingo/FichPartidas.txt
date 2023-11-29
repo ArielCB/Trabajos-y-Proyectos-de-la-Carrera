@@ -1,0 +1,4 @@
+0 false true 3
+Ariel Juan
+letra 0 hurto 1 vimos 2
+5 2
